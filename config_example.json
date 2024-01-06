@@ -1,0 +1,8 @@
+{
+    "news_mp_url": "https://mp.weixin.qq.com/s/ruN55uyX03hQ0ttSTzkjHA",
+    "article_type": "reference",
+    "episode": "176",
+    "use_proxy": true,
+    "image_upload_url": "https://example.image.host/api/v1/upload",
+    "token": "my image upload token"
+}
